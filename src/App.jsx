@@ -1,5 +1,7 @@
+import Recetas from './Pages/Recetas';
+
 function App() {
-  return <></>;
+  return <Recetas />;
 }
 
 export default App;
